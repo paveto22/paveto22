@@ -8,6 +8,8 @@
 paveto22/paveto22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<title>"my  gym program"</title>
 <h2 I go to the gym every Tuesday, Thursday and Saturday</h2>
 <p1> Tuesday</p1> 
   <ul>
